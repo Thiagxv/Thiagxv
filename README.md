@@ -6,7 +6,7 @@
 
 
 <p> Tecnologias e Ferramentas em aprendizado :<p>
-
+💻 Técnico TIC no <strong>Consórcio SPCIDADÃO</strong>
 
 <img src="https://github.com/user-attachments/assets/84e83d72-b6dd-429d-86f1-27927de86a60" width= "300px" align= "right"  >
 
