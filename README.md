@@ -29,9 +29,7 @@
 
 Contato:
 
-<a href="https://www.facebook.com/profile.php?id=100066794405838" target="_blank"><img width="30" height="30" src="https://img.icons8.com/material/24/FFFFFF/facebook--v1.png" alt="facebook--v1"></a>
-<a href="https://substack.com/@thiagxv?utm_source=user-menu"><img src= "https://github.com/user-attachments/assets/783c1d13-16f6-46ec-bb84-307f690d7fbf" width="30" height="30"/></a>
-          
-       
+
+<a href="https://substack.com/@thiagxv?utm_source=user-menu"> <img src="https://github.com/user-attachments/assets/f6b385a9-2fcc-4256-9eae-109b185bfc78" width="30px" height=30px/></a> <img src="https://github.com/user-attachments/assets/7f1e418c-8cdf-4abc-ae45-1bac09946742" width="30px" height=30px/>
 
 
