@@ -33,7 +33,7 @@
 Contato:
 
 
-<a href="https://substack.com/@thiagxv?utm_source=user-menu"> <img src="https://github.com/user-attachments/assets/f6b385a9-2fcc-4256-9eae-109b185bfc78" width="30px" height=30px/></a> 
+<a href="https://substack.com/@thiagxv?utm_source=user-menu]https://substack.com/@thiagxv"> <img src="https://github.com/user-attachments/assets/f6b385a9-2fcc-4256-9eae-109b185bfc78" width="30px" height=30px/></a> 
 <a href="augthiago.alm@gmail.com
 "> <img src="https://github.com/user-attachments/assets/7f1e418c-8cdf-4abc-ae45-1bac09946742" width="30px" height=30px/></a> 
 <a href="https://www.linkedin.com/in/thiago-augusto-571216238/"> <img src="https://github.com/user-attachments/assets/db41cca9-a505-4385-9617-70a4d5efa47f" width="30px" height=30px/></a> 
