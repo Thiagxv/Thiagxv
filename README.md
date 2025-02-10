@@ -6,9 +6,9 @@
 
 
 <p> Tecnologias e Ferramentas em aprendizado :<p>
-💻 Técnico TIC no <strong>Consórcio SPCIDADÃO</strong>
 
 <img src="https://github.com/user-attachments/assets/84e83d72-b6dd-429d-86f1-27927de86a60" width= "300px" align= "right"  >
+
 
 
  
@@ -16,6 +16,9 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50px" height="50px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="50px" height="50px" /> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50px" height="50px" />
+
+
+💻 Técnico TIC no <strong>Consórcio SPCIDADÃO</strong>
 
 <br>
 <br>
